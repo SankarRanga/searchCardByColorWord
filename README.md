@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## find color by word
+
+Ex: type blue in textfield then card will be appear blue card and type tree in textfield then will appear green card
+
 ## Available Scripts
 
 In the project directory, you can run:
